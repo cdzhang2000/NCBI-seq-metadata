@@ -1,0 +1,10 @@
+ load data
+ infile 'H:/sequencemetadata/OptionalAttributeburkholderia.txt'
+ truncate
+ into table SEQUENCEMETA.OptionalAttributes
+ fields terminated by "\t"	 
+ trailing nullcols 
+ (CATAGORY "TRIM(:CATAGORY)",
+ ATTR_NAME "TRIM(:ATTR_NAME)"
+ )
+ 

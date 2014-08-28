@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/database/!svn/ver/153/SeqMetadata/src/edu/vt/vbi/tb
+END
+UploadTB.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/database/!svn/ver/153/SeqMetadata/src/edu/vt/vbi/tb/UploadTB.java
+END
+UploadSUBProject.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/database/!svn/ver/153/SeqMetadata/src/edu/vt/vbi/tb/UploadSUBProject.java
+END
+TBCTRL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/database/!svn/ver/153/SeqMetadata/src/edu/vt/vbi/tb/TBCTRL.txt
+END
+UploadTBComments.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/database/!svn/ver/153/SeqMetadata/src/edu/vt/vbi/tb/UploadTBComments.java
+END
+tb.sql
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/database/!svn/ver/153/SeqMetadata/src/edu/vt/vbi/tb/tb.sql
+END

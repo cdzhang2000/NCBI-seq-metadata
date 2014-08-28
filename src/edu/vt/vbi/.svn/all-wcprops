@@ -1,0 +1,185 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/database/!svn/ver/179/SeqMetadata/src/edu/vt/vbi
+END
+sqlloader
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/database/!svn/ver/140/SeqMetadata/src/edu/vt/vbi/sqlloader
+END
+projecttabel.sql
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/database/!svn/ver/141/SeqMetadata/src/edu/vt/vbi/projecttabel.sql
+END
+SchemaName.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/database/!svn/ver/126/SeqMetadata/src/edu/vt/vbi/SchemaName.java
+END
+Publication.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/database/!svn/ver/122/SeqMetadata/src/edu/vt/vbi/Publication.java
+END
+Submission.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/database/!svn/ver/122/SeqMetadata/src/edu/vt/vbi/Submission.java
+END
+ProjectOrganism.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/database/!svn/ver/134/SeqMetadata/src/edu/vt/vbi/ProjectOrganism.java
+END
+Air.java
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/svn/database/!svn/ver/122/SeqMetadata/src/edu/vt/vbi/Air.java
+END
+GOLDData.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/database/!svn/ver/136/SeqMetadata/src/edu/vt/vbi/GOLDData.java
+END
+Host.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/database/!svn/ver/134/SeqMetadata/src/edu/vt/vbi/Host.java
+END
+Cell.java
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/svn/database/!svn/ver/134/SeqMetadata/src/edu/vt/vbi/Cell.java
+END
+metadata.sql
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/database/!svn/ver/124/SeqMetadata/src/edu/vt/vbi/metadata.sql
+END
+IsolatePerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/svn/database/!svn/ver/130/SeqMetadata/src/edu/vt/vbi/IsolatePerson.java
+END
+IsolateLocation.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/database/!svn/ver/134/SeqMetadata/src/edu/vt/vbi/IsolateLocation.java
+END
+BuildString.java
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/svn/database/!svn/ver/141/SeqMetadata/src/edu/vt/vbi/BuildString.java
+END
+sqlsyntax.sql
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/database/!svn/ver/124/SeqMetadata/src/edu/vt/vbi/sqlsyntax.sql
+END
+Sequencing.java
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/database/!svn/ver/134/SeqMetadata/src/edu/vt/vbi/Sequencing.java
+END
+Snippet.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/database/!svn/ver/124/SeqMetadata/src/edu/vt/vbi/Snippet.java
+END
+ProjectContactPerson.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/database/!svn/ver/134/SeqMetadata/src/edu/vt/vbi/ProjectContactPerson.java
+END
+SequenceSource.java
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/database/!svn/ver/134/SeqMetadata/src/edu/vt/vbi/SequenceSource.java
+END
+OrganismHost.java
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/svn/database/!svn/ver/134/SeqMetadata/src/edu/vt/vbi/OrganismHost.java
+END
+genomicmetadata.sql
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/svn/database/!svn/ver/123/SeqMetadata/src/edu/vt/vbi/genomicmetadata.sql
+END
+WaterBody.java
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/database/!svn/ver/122/SeqMetadata/src/edu/vt/vbi/WaterBody.java
+END
+Project.java
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/svn/database/!svn/ver/134/SeqMetadata/src/edu/vt/vbi/Project.java
+END
+OptAttrCTL.txt
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/database/!svn/ver/139/SeqMetadata/src/edu/vt/vbi/OptAttrCTL.txt
+END
+PopulateSeqMetaValue.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/database/!svn/ver/140/SeqMetadata/src/edu/vt/vbi/PopulateSeqMetaValue.java
+END
+Person.java
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/svn/database/!svn/ver/134/SeqMetadata/src/edu/vt/vbi/Person.java
+END
+SequenceOrganism.java
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/database/!svn/ver/130/SeqMetadata/src/edu/vt/vbi/SequenceOrganism.java
+END
+DatabaseManager.java
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/svn/database/!svn/ver/128/SeqMetadata/src/edu/vt/vbi/DatabaseManager.java
+END
+Organism.java
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/database/!svn/ver/134/SeqMetadata/src/edu/vt/vbi/Organism.java
+END
+DROP_TABLE.sql
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/svn/database/!svn/ver/132/SeqMetadata/src/edu/vt/vbi/DROP_TABLE.sql
+END

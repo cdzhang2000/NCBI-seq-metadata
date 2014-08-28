@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/svn/database/!svn/ver/163/SeqMetadata/src/edu/vt/vbi/ncbi
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/database/!svn/ver/163/SeqMetadata/src/edu/vt/vbi/ncbi/README.txt
+END
+loader.txt
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/svn/database/!svn/ver/163/SeqMetadata/src/edu/vt/vbi/ncbi/loader.txt
+END
+ncbimetadata.sql
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/svn/database/!svn/ver/150/SeqMetadata/src/edu/vt/vbi/ncbi/ncbimetadata.sql
+END
+UploadComments.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/database/!svn/ver/150/SeqMetadata/src/edu/vt/vbi/ncbi/UploadComments.java
+END
+ncbimetadatCTR.txt
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/database/!svn/ver/150/SeqMetadata/src/edu/vt/vbi/ncbi/ncbimetadatCTR.txt
+END
