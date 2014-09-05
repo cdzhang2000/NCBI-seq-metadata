@@ -1,6 +1,0 @@
-
-sqlldr dbadmin@BPDEV/su4n0xat control=C:/app/czhang/product/11.2.0/dbhome_1/BIN/CTRL/ncbimetadatCTR.txt DIRECT=TRUE ROWS=10000 LOG=C:/app/czhang/product/11.2.0/dbhome_1/BIN/CTRL/NCBIMetadatalog.txt
-
-
-
-sqlldr dbadmin@BPDEV/su4n0xat control=C:/app/czhang/product/11.2.0/dbhome_1/BIN/CTRL/ncbimetadatCTR8302011.txt DIRECT=TRUE ROWS=10000 LOG=C:/app/czhang/product/11.2.0/dbhome_1/BIN/CTRL/NCBIMetadatalog.txt
